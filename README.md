@@ -1,7 +1,7 @@
 # File Locker
 File Console Application that hides, disguises and locks files.
 
-## `System ()`
+### `System ()`
 System calls the host environment's command processor (e.g. /bin/sh, cmd.exe, command.com) with the parameter command. Returns an implementation-defined value (usually the value that the invoked program returns).
 
 ## Parameters:
