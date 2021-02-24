@@ -10,5 +10,5 @@ System calls the host environment's command processor (e.g. /bin/sh, cmd.exe, co
 ## Return Values:
 Implementation-defined value. If command is a null pointer, returns a nonzero value if and only if the command processor exists.
 
-### *Further documentation and examples:*
+### Further documentation and examples:
 https://en.cppreference.com/w/cpp/utility/program/system 
